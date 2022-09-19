@@ -2,8 +2,6 @@
 
 [Raidplan P1](https://raidplan.io/plan/6ueeUuZp3-4FWZ2V)
 
-![Aufstellung P3](/images/sylviep3.png)
-
 ## Note
 
 ```
@@ -16,3 +14,7 @@ Right: Rest (Eulen CDs)
 
 BL dritte Platform nach Veil
 ```
+
+## P3 Positionen
+
+![Aufstellung P3](/images/sylviep3.png)
