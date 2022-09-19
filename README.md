@@ -3,16 +3,16 @@
 [Raidbestätigungen](https://docs.google.com/spreadsheets/d/1vBSHAGNR4eZRIDMN0SgxcM7tv97V9q9d8wmGRvYeISI/edit#gid=252732842)
 
 ## Boss-Tactics
-- [Tarragrue]()
-- [Eye]()
-- [Nine]()
-- [Remnant]()
-- [Soulrender]()
-- [Painsmith]()
-- [Guardian]()
-- [Fatescribe]()
-- [KT]()
-- [Sylavanas]()
+- [Tarragrue](tarragrue.md)
+- [Eye](eye.md)
+- [Nine](nine.md)
+- [Remnant](remnant.md)
+- [Soulrender](soulrender.md)
+- [Painsmith](painsmith.md)
+- [Guardian](guardian.md)
+- [Fatescribe](fatescribe.md)
+- [KT](kt.md)
+- [Sylvanas](sylvanas.md)
 
 ## Weakaura-Packs
 [Sanctum Weakaura Paket](https://wago.io/-EcEagLx3)
